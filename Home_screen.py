@@ -19,7 +19,7 @@ driver.find_element_by_xpath("//li[@data-option-array-index='3']").click()
 driver.find_element_by_xpath(".//span[contains(text(),'אזור')]").click()
 driver.find_element_by_xpath("//div[@id='ember679_chosen']//span").click()
 
-
+print()
 
 #select a category
 #select a search point
